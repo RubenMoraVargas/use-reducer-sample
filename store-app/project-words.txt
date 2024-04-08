@@ -1,0 +1,6 @@
+Agregar
+Editar
+Eliminar
+Filtro
+Guardar
+tarea
